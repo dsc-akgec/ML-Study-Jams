@@ -13,6 +13,12 @@ The wait is finally over!! Please submit your work here<br>
   </li>
   <li>The participant can also give a brief insight on the various steps they took and why they felt that their chosen approach suited their objective.</li>
 </ol>
+
+## How to upload files in the repository?? <br>
+1. Fork the repo using the Fork button on the top right
+2. Upload folder using Add files button
+3. Create a Pull Request to merge on this repo
+
 <b>A sample folder has been uploaded in this repo by using add files button</b><br>
 Upload your folder in this repository! <br>
 

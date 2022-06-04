@@ -13,6 +13,7 @@ The wait is finally over!! Please submit your work here<br>
   </li>
   <li>The participant can also give a brief insight on the various steps they took and why they felt that their chosen approach suited their objective.</li>
 </ol>
+<b>A sample folder has been uploaded in this repo by using add files button</b><br>
 Upload your folder in this repository! <br>
 
 ## All the participants will get certificates and The Winners will get exclusive rewards!
